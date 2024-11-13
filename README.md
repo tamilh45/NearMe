@@ -218,7 +218,9 @@ school.html
 ## OUTPUT
 
 ![Screenshot 2024-11-13 235515](https://github.com/user-attachments/assets/451c8cf1-da4e-4bae-a232-8391a28f4069)
-
+![Screenshot 2024-11-13 235528](https://github.com/user-attachments/assets/7fba94a7-79e7-449e-a134-f4f2666fba93)
+![Screenshot 2024-11-13 235553](https://github.com/user-attachments/assets/92f17be7-020f-4886-a2d4-11cfb5ac782b)
+![Screenshot 2024-11-13 235606](https://github.com/user-attachments/assets/ff7f2224-c865-4b5b-b4c0-202b3033b8de)
 
 
 
